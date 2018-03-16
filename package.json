@@ -6,6 +6,9 @@
   "repository": "https://github.com/eemeli/json-estree-ast",
   "author": "Eemeli Aro <eemeli@gmail.com>",
   "license": "MIT",
+  "engines" : {
+    "node" : ">=6"
+  },
   "dependencies": {
     "json-to-ast": "^2.0.2"
   }
