@@ -1,0 +1,9 @@
+{
+  "name": "json-estree-ast",
+  "version": "0.0.1",
+  "description": "ESTree-compatible JSON AST parser",
+  "main": "index.js",
+  "repository": "https://github.com/eemeli/json-estree-ast",
+  "author": "Eemeli Aro <eemeli@gmail.com>",
+  "license": "MIT"
+}
