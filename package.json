@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/eemeli/json-estree-ast",
   "author": "Eemeli Aro <eemeli@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "json-to-ast": "^2.0.2"
+  }
 }
