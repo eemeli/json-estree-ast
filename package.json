@@ -1,13 +1,13 @@
 {
   "name": "json-estree-ast",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ESTree-compatible JSON AST parser",
   "main": "index.js",
   "repository": "https://github.com/eemeli/json-estree-ast",
   "author": "Eemeli Aro <eemeli@gmail.com>",
   "license": "MIT",
-  "engines" : {
-    "node" : ">=6"
+  "engines": {
+    "node": ">=6"
   },
   "dependencies": {
     "json-to-ast": "^2.0.2"
