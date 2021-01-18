@@ -9,6 +9,7 @@ const visit = (node) => {
       break
     case 'Property':
       node.kind = 'init'
+      visit(node.key)
       visit(node.value)
       break
     case 'Identifier':
