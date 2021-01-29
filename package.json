@@ -10,6 +10,6 @@
     "node": ">=6"
   },
   "dependencies": {
-    "json-to-ast": "^2.0.2"
+    "json-to-ast": "^2.1.0"
   }
 }
